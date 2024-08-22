@@ -10,7 +10,7 @@
 *   Ventura
 *   Sonoma ( Disable NootedRed.kext and set **SecureBootModel** to **Disabled** until first boot)
 
-![About mac]
+![IMG_1224 s](https://github.com/user-attachments/assets/649debad-ca05-46f5-9452-cf7afec11c28)
 
 Check [Dortania's Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/) for unsupported hardware like SSD and WLAN cards and replace them with supported ones<br/>
 Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else disable it in config.plist 
