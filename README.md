@@ -89,3 +89,8 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 |[SMCRadeonSensors](https://github.com/ChefKissInc/SMCRadeonSensors)|AMD GPU temperature monitoring on macOS|
 |[VoodooI2C.kext](https://chefkissinc.github.io/Extras/Kexts/VoodooI2C.zip)|Driver for I2C input devices.|
 |[VoodooRMI.kext](https://github.com/VoodooSMBus/VoodooRMI)|Synaptic Trackpad driver over SMBus/I2C for macOS|
+
+![IMG_1218](https://github.com/user-attachments/assets/ba9b1601-438b-49fa-b09e-951571477674)
+![IMG_1221](https://github.com/user-attachments/assets/d1cf041e-ea89-4f55-b306-19d8162fb5a6)
+![IMG_1223](https://github.com/user-attachments/assets/93c82e1f-dd60-43df-a2e6-92ecacc19555)
+
