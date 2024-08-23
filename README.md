@@ -28,7 +28,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | ----------------------- | :------------------------------------------------------------------------- |   
 | CPU                     | AMD Ryzen™ 5 5600H with Radeon Graphics                                    |
 | iGPU                    | Radeon Graphics (Vega 8)                                                   |
-| dGPU                    | Radeon RX 5500M (Navi 14) [DISABLED]                                     |
+| dGPU                    | NVIDIA GeForce RTX 3050 [DISABLED]                                     |
 | Memory                  | 24GB DDR4 3200MHz                                                          |
 | Storage                 | 512GB NVMe SKHynix_HFS512GDE9X084N   [UNSUPPORTED] |
 ||512GB NVMe SAMSUNG MZVLB512HBJQ-000H1 (PM981)   [UNSUPPORTED]                                                           |
