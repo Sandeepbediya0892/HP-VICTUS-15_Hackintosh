@@ -36,7 +36,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Network                 | RTL8852AE 802.11ax PCIe Wireless Network Adapter [UNSUPPORTED]                         | 
 || RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller|
 | Audio|Realtek ALC245|
-|LCD Panel| 16.1" FHD IPS 60Hz|
+|LCD Panel| 15.1" FHD IPS 144Hz|
 
 ## What's Working
 
